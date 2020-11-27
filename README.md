@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Hi there wave
 
 I'm Lyne, is a PHP full stack developer.
 
