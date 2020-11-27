@@ -3,7 +3,7 @@
 
 I'm Lyne, is a PHP full stack developer.
 
-✨ Issue will be my personal blog.
+✨ Issue will be my person blog.
 
 #### Contact Me
 - 🔭 Resume:  ...
