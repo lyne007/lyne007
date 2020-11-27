@@ -10,7 +10,7 @@ I'm Lyne, is a PHP full stack developer.
 - 💬 Phone:  6MkcM4Xnw0e3LT58cmMCDw==
 - 😄 Email:  os8j+4XgBS0cUwkY2tWZgw==
 - 🌱 Blog: https://github.com/lyne007/blog/issues
- ps: [AES加密(phone,email)](https://github.com/lyne007/aes)，key：最熟悉的六位数
+- ps: [AES加密(phone,email)](https://github.com/lyne007/aes)，key：最熟悉的六位数
 
   
 
