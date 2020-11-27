@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+Hi there wave
+
+I'm Lyne, is a PHP full stack developer.
+
+✨ Issue will be my personal blog.
+
+#### Contact Me
+--- Resume: ***
+--- Phone: ***
+--- Email: ***
+
+  
+
 <!--
 **lyne007/lyne007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
