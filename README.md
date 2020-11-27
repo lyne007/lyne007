@@ -7,9 +7,9 @@ I'm Lyne, is a PHP full stack developer.
 ✨ Issue will be my personal blog.
 
 #### Contact Me
---- Resume: ***
---- Phone: ***
---- Email: ***
+- 🔭 Resume:  ...
+- 💬 Phone:  ...
+- 😄 Email:  ...
 
   
 
