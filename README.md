@@ -7,9 +7,10 @@ I'm Lyne, is a PHP full stack developer.
 
 #### Contact Me
 - 🔭 Resume:  ...
-- 💬 Phone:  ...
-- 😄 Email:  ...
+- 💬 Phone:  6MkcM4Xnw0e3LT58cmMCDw==
+- 😄 Email:  os8j+4XgBS0cUwkY2tWZgw==
 - 🌱 Blog: https://github.com/lyne007/blog/issues
+- ps: phone，email 加密方式：aes；key=123123
 
   
 
