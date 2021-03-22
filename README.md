@@ -1,7 +1,8 @@
 ### Hi there 👋
-
-
 I'm Lyne, is a PHP full stack developer.
+✨ Issue will be my person blog.
+
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyne007&layout=compact&hide=html" alt="lyne007" />
 </p>
@@ -13,6 +14,7 @@ I'm Lyne, is a PHP full stack developer.
 
 
 <!--
+I'm Lyne, is a PHP full stack developer.
 ✨ Issue will be my person blog.
 
 #### Contact Me
