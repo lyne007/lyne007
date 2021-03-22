@@ -2,7 +2,17 @@
 
 
 I'm Lyne, is a PHP full stack developer.
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyne007&layout=compact&hide=html" alt="lyne007" />
+</p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyne007&show_icons=true" alt="lyne007" /></p>
+
+
+
+
+
+<!--
 ✨ Issue will be my person blog.
 
 #### Contact Me
@@ -11,7 +21,7 @@ I'm Lyne, is a PHP full stack developer.
 - 😄 Email:  os8j+4XgBS0cUwkY2tWZgw==
 - 🌱 Blog: https://github.com/lyne007/blog/issues
 - ps: [AES加密(phone,email)](https://github.com/lyne007/aes)，key：最熟悉的六位数
-
+-->
   
 
 <!--
