@@ -25,10 +25,10 @@ I'm Lyne  (PHPer), living in ShangHai, China. Nice to see you.
 # 🚀 Actions
 
 <!-- 连续提交代码天数记录 -->
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyne007&theme=dark&hide_border=true" />
 </div>
-<br>
+<br> -->
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
