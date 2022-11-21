@@ -1,14 +1,31 @@
 ### Hi there 👋
-I'm Lyne, is a PHP full stack developer.
+I'm Lyne  (PHPer), living in ShangHai, China. Nice to see you.
 
-✨ Issue will be my person blog.
-
-
+<h3>Things I code with</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyne007&layout=compact&hide=html" alt="lyne007" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-6E9CC3?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-f4645f?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Composer" src="https://img.shields.io/badge/-Codeigniter-DD4814?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-00B140?style=flat-square&logo=nginx&logoColor=white" />
+<!--   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> -->
+<!--   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> -->
+<!--   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-5c4ee5?style=flat-square&logo=terraform&logoColor=white" /> -->
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<!--   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> -->
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-dc382c?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-142a52?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="MySql" src="https://img.shields.io/badge/-MySql-3E6E93?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyne007&show_icons=true" alt="lyne007" /></p>-->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/super-eggs/super-eggs/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
+
+<!--<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyne007&layout=compact&hide=html" alt="lyne007" />
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyne007&show_icons=true" alt="lyne007" /></p>-->
 
 
 
