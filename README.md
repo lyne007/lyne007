@@ -45,6 +45,14 @@ I'm Lyne  (PHPer), living in ShangHai, China. Nice to see you.
 <br>
 
 
+
+<h3>Where to find me</h3>
+<a href="mailto:lyne007@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-lyne007%40163.com-brightgreen?logo=gmail"></a>
+
+
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/lyne007/count.svg" />
+
 <!--<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyne007&layout=compact&hide=html" alt="lyne007" />
 </p>
