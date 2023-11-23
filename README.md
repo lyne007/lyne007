@@ -19,7 +19,7 @@ I'm Lyne  (PHPer), living in ShangHai, China. Nice to see you.
   <img alt="MySql" src="https://img.shields.io/badge/-MySql-3E6E93?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/super-eggs/super-eggs/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/super-eggs/super-eggs/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
 
 
 # 🚀 Actions
